@@ -7,3 +7,6 @@
 [submodule "sub-module-test-4"]
 	path = sub-module-test-4
 	url = https://github.com/cocoa-salon/sub-module-test-4
+[submodule "sub-module-test-3"]
+	path = sub-module-test-3
+	url = https://github.com/cocoa-salon/sub-module-test-3
